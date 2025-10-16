@@ -1,5 +1,5 @@
--[](./Scene7A)
+- [Do a little Spice](./Scene7A)
 
--[](./Scene7B)
+- [Do a lot of Spice](./Scene7B)
 
--[](./Scene7D)
+- [Do no Spice](./Scene7D)
