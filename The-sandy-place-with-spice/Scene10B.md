@@ -1,3 +1,3 @@
--[Explore your Future](./Scene11C)
+-[Explore your Future](./Scene11C.md)
 
--[Explore Humanity's Future](./Scene11D)
+-[Explore Humanity's Future](./Scene11D.md)

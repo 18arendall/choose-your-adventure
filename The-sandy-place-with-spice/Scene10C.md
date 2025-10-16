@@ -1,3 +1,3 @@
--[](./Scene11B)
+- [Fight Slow](./Scene11B.md)
 
--[](./Scene11A)
+- [Fight Fast](./Scene11A.md)

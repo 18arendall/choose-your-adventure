@@ -1,3 +1,3 @@
-- [Go on your own Path](./Scene9B)
+- [Go on your own Path](./Scene9B.md)
 
-- [Return to the Contact](./Scene9A)
+- [Return to the Contact](./Scene9A.md)

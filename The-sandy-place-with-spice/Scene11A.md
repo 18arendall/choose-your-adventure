@@ -1,1 +1,1 @@
--[](./SecondDeath)
+- [](./SecondDeath.md)
