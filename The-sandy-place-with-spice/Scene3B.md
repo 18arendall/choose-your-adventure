@@ -3,6 +3,6 @@
 You walk through the sands.
 > BOOM BOOM BOOM
 
-Your footsteps like drums on the sand. You feel the grains beneath you shift.
+Your footsteps like drums on the sand. You see a mound of sand rushing towards you like a wave.
 
 -[Continue](./FirstDeath.md)
