@@ -7,4 +7,4 @@ do you listen?
 
 - [Do a little spice](./Scene7A.md)
 - [Do a lot of spice](./Scene7B.md)
-- [Don't any spice](./Scene7D.md)
+- [Don't do any spice](./Scene7D.md)
