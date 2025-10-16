@@ -5,4 +5,4 @@ The sand beneath you shift as the wave of sand rushes towards you and you are sw
 Retry?
 
 - [Exit the cave](./scene2A.md)
-- [Radio call](./scene3A.md)
+- [Radio call](./Scene3A.md)
