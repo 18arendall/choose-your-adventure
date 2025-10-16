@@ -1,3 +1,3 @@
--[](./Scene11C)
+-[Explore your Future](./Scene11C)
 
--[](./Scene11D)
+-[Explore Humanity's Future](./Scene11D)

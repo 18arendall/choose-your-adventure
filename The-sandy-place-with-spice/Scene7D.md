@@ -1,5 +1,5 @@
--[](./Scene8C)
+- [Join Him](./Scene8C)
 
--[](./Scene8D)
+- [Refuse](./Scene8D)
 
--[](./Scene8E)
+- [Refuse to join but Remain open to Work](./Scene8E)
