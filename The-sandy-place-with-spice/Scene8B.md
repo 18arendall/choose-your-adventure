@@ -6,4 +6,4 @@ Eventually, the vision ends, and you try to process what you have just seen. You
 
 - [Go on your own Path](./Scene9B.md)
 
-- [Return to the Contact](./Scene9A.md)
+- [Return to the Contact](./Scene7D.md)
