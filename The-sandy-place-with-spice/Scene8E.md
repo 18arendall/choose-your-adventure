@@ -1,5 +1,9 @@
-- [Follow Him](./Scene9C.md)
+## :sunglasses: Scene 8C: Refuse to join but open to work
 
-- [Meet up Later](./Scene9D.md)
+>:speech_balloon:"Alright. We have another job in the works if you want in now."
 
-- [Wait for him to Reach out](./Scene9E.md)
+- [Follow Him](./Scene10C.md)
+
+- [Meet up Later](./Scene10A.md)
+
+- [Wait for him to Reach out](./Scene10A.md)

@@ -1,5 +1,11 @@
-- [Follow Him](./Scene9C.md)
+## :sunglasses: Scene 8C: Refuse to join
 
-- [Meet up Later](./Scene9D.md)
+>:speech_balloon:"Alright Goold luck out there then."
 
-- [Wait for him to Reach out](./Scene9E.md)
+He leaves for his base.
+
+- [Sneakily Follow Him](./Scene10C.md)
+
+- [Meet up Later](./Scene10A.md)
+
+- [Wait for him to Reach out](./Scene10A.md)
