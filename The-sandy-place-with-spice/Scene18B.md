@@ -1,3 +1,5 @@
-## :sunny: Scene 18A: Mercenary thrown out
+## :sunny: Scene 18B: Mercenary life
 
-You messed up but are willing to own up to it. Your crew doesn't want you anymore so they throw you to the desert. You will either die or find someone else. They don't really care. You have lost your footing on this planet once again.
+You meet back up with your crew back at base. They welcome you in with a cool cup of water and arms around your shoulders. They pay you your share of the score. You feel welcome here. 
+
+This is a solid footing to start something new or save up enough to get off this planet.
