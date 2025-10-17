@@ -1,4 +1,4 @@
-## :map: Scene 9B: Your Own Path
+## :mag: Scene 9B: Your Own Path
 
 After your mind clears up a bit you decide whether or not to explore the desert, or see more within your own mind.
 

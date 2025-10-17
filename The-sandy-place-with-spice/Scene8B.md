@@ -1,4 +1,4 @@
-## :explosion: Scene 8B: The Fall of Humanity
+## :collision: Scene 8B: The Fall of Humanity
 
 You saw it all unfold.  The fire, the death, all of it.  Souls lost to the grips of war.  It feels so real, yet so distant.  Like a fading memory.
 
