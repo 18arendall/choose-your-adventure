@@ -1,1 +1,0 @@
-- [Wander the Desert](./Scene10A.md)
