@@ -1,6 +1,6 @@
 ## :sunglasses: Scene 8C: Refuse to join
 
->:speech_balloon:"Alright Goold luck out there then."
+>:speech_balloon:"Alright Good luck out there then."
 
 He leaves for his base.
 
